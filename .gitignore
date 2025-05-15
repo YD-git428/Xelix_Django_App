@@ -4,5 +4,4 @@
 mainsecrets.tf 
 .terraform
 terraform.tfstate
-db.sqlite3
-__pycache__
+
